@@ -129,3 +129,17 @@ Python (optional): For generating INSERT statements if needed.
 
 
 Dataset: Airport_Project_Data.csv (included in the repository or provided separately).
+
+
+
+
+
+
+
+# 🐛 Issues
+
+Report bugs or suggest improvements via GitHub Issues.
+
+# 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
